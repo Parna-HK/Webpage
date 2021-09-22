@@ -1,0 +1,22 @@
+.images{
+	max-width:1400px;
+	margin:auto;
+	background:#f2f2f2;
+	overflow:auto;
+}
+.living_room{
+	margin:10px;
+	border:1px solid #ccc;
+	float:left;
+	width:390px;
+}
+.living_room img{
+	width:100%;
+	height:auto;
+}
+
+	
+.desc{
+	padding:15px;
+	text-align:center;
+}

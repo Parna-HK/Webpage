@@ -1,0 +1,25 @@
+.images{
+	max-width:1400px;
+	margin:auto;
+	background:#f2f2f2;
+	overflow:auto;
+}
+.bathroom{
+	margin:10px;
+	border:1px solid #ccc;
+	float:left;
+	width:390px;
+}
+.bathroom img{
+	width:100%;
+	height:auto;
+}
+.desc{
+	padding:15px;
+	text-align:center;
+}
+.photo a{
+	width: 2000px;
+	height: 1000px;
+	position: absolute;
+}
